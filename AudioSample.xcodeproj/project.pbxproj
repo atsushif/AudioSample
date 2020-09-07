@@ -16,6 +16,7 @@
 		D4529E6924F35FB90055F6A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4529E6724F35FB90055F6A6 /* LaunchScreen.storyboard */; };
 		D4529E7424F35FB90055F6A6 /* AudioSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E7324F35FB90055F6A6 /* AudioSampleTests.swift */; };
 		D4529E7F24F35FB90055F6A6 /* AudioSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E7E24F35FB90055F6A6 /* AudioSampleUITests.swift */; };
+		D4529E9124F3995E0055F6A6 /* Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E9024F3995E0055F6A6 /* Audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D4529E7A24F35FB90055F6A6 /* AudioSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4529E7E24F35FB90055F6A6 /* AudioSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioSampleUITests.swift; sourceTree = "<group>"; };
 		D4529E8024F35FB90055F6A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4529E9024F3995E0055F6A6 /* Audio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D4529E6724F35FB90055F6A6 /* LaunchScreen.storyboard */,
 				D4529E6A24F35FB90055F6A6 /* Info.plist */,
 				D4529E6224F35FB80055F6A6 /* AudioSample.xcdatamodeld */,
+				D4529E9024F3995E0055F6A6 /* Audio.swift */,
 			);
 			path = AudioSample;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				D4529E5E24F35FB80055F6A6 /* ViewController.swift in Sources */,
 				D4529E5A24F35FB80055F6A6 /* AppDelegate.swift in Sources */,
 				D4529E5C24F35FB80055F6A6 /* SceneDelegate.swift in Sources */,
+				D4529E9124F3995E0055F6A6 /* Audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
