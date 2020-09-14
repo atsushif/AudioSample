@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D41CFAEB250F2C5D0038F030 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = D41CFAEA250F2C5D0038F030 /* Config.swift */; };
 		D4529E5A24F35FB80055F6A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E5924F35FB80055F6A6 /* AppDelegate.swift */; };
 		D4529E5C24F35FB80055F6A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E5B24F35FB80055F6A6 /* SceneDelegate.swift */; };
 		D4529E5E24F35FB80055F6A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4529E5D24F35FB80055F6A6 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D41CFAEA250F2C5D0038F030 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		D4529E5624F35FB80055F6A6 /* AudioSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4529E5924F35FB80055F6A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4529E5B24F35FB80055F6A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				D4529E6A24F35FB90055F6A6 /* Info.plist */,
 				D4529E6224F35FB80055F6A6 /* AudioSample.xcdatamodeld */,
 				D4529E9024F3995E0055F6A6 /* Audio.swift */,
+				D41CFAEA250F2C5D0038F030 /* Config.swift */,
 			);
 			path = AudioSample;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				D4529E6424F35FB80055F6A6 /* AudioSample.xcdatamodeld in Sources */,
 				D4529E5E24F35FB80055F6A6 /* ViewController.swift in Sources */,
 				D4529E5A24F35FB80055F6A6 /* AppDelegate.swift in Sources */,
+				D41CFAEB250F2C5D0038F030 /* Config.swift in Sources */,
 				D4529E5C24F35FB80055F6A6 /* SceneDelegate.swift in Sources */,
 				D4529E9124F3995E0055F6A6 /* Audio.swift in Sources */,
 			);
